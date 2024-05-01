@@ -1,3 +1,1 @@
-<h1 align="center">오르리</h1>
-
-## 당신이 찾는 암장 정보, 여기 다 있다!
+<span style="font-size: xxx-large;font-weight: bolder">오르리</span>
